@@ -21,7 +21,7 @@ public WebDriver driver;
 	@FindBy (xpath="//button[contains(text(),\"Coût\")]")
 	WebElement Onglet_Coût;
 	
-	@FindBy (xpath="//button[contains(text(),\"Config\")]")
+	@FindBy (xpath="//button[contains(text(), 'Configuration')]")
 	WebElement Onglet_Configuration;
 	
 	@FindBy (xpath="//button[contains(text(),\"Communication\")]")
@@ -32,5 +32,29 @@ public WebDriver driver;
 	
 	@FindBy (xpath="//button[contains(text(),\"Zone\")]")
 	WebElement Onglet_ZonePersonnelle;
+	
+	@FindBy (xpath="//a[@href='/libreplan/resources/machine/machines.zul']")
+	WebElement Machines;
+	
+	@FindBy (xpath="//a[@href='/libreplan/profiles/profiles.zul']")
+	WebElement Profils;
+	
+	
+	public boolean verifPage(WebElement nomWebEl) {
+		boolean verif;
+		if (nomWebEl.isDisplayed()) {
+			verif = true;
+		} else {
+			verif = false;
+		}
+		return verif;
+	}
+
+	public String namePage(WebElement nomPage) {
+		String namePage = "Page"+ nomPage;
+		return namePage;
+	}
+	
+	
 
 }
