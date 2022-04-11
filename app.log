@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T19:21:44</date>
+  <millis>1649697704338</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Information message</message>
+</record>
+<record>
+  <date>2022-04-11T19:21:44</date>
+  <millis>1649697704339</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>WARNING</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Warning message</message>
+</record>
+<record>
+  <date>2022-04-11T19:21:44</date>
+  <millis>1649697704382</millis>
+  <sequence>3</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>gfjhjfkf</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T19:28:45</date>
+  <millis>1649698125640</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T19:28:51</date>
+  <millis>1649698131106</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T19:48:51</date>
+  <millis>1649699331157</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T19:53:43</date>
+  <millis>1649699623171</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T19:53:47</date>
+  <millis>1649699627738</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:10:27</date>
+  <millis>1649700627804</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:10:59</date>
+  <millis>1649700659323</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T20:11:03</date>
+  <millis>1649700663308</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:16:06</date>
+  <millis>1649700966608</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T20:16:11</date>
+  <millis>1649700971471</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:17:27</date>
+  <millis>1649701047965</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T20:17:32</date>
+  <millis>1649701052376</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:18:44</date>
+  <millis>1649701124627</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T20:18:49</date>
+  <millis>1649701129080</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:31:41</date>
+  <millis>1649701901462</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T20:31:46</date>
+  <millis>1649701906775</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:34:40</date>
+  <millis>1649702080217</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T20:34:45</date>
+  <millis>1649702085251</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:40:06</date>
+  <millis>1649702406727</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T20:40:12</date>
+  <millis>1649702412541</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:41:44</date>
+  <millis>1649702504665</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:46:27</date>
+  <millis>1649702787497</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:47:17</date>
+  <millis>1649702837717</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T20:47:22</date>
+  <millis>1649702842222</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>MMMMMMMMMMMMMMMMMMMM</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:49:57</date>
+  <millis>1649702997295</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:51:45</date>
+  <millis>1649703105486</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:54:09</date>
+  <millis>1649703249326</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T20:57:01</date>
+  <millis>1649703421373</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T21:02:44</date>
+  <millis>1649703764028</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-11T21:04:08</date>
+  <millis>1649703848500</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AAAAAAAAAAAAAAAAAAAAAAAA</message>
+</record>
+<record>
+  <date>2022-04-11T21:04:12</date>
+  <millis>1649703852470</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>Exception while taking screenshot Element &lt;a id="dD8Qc1-a" class="z-menu-item-cnt" href="/libreplan/profiles/profiles.zul"&gt; could not be scrolled into view
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'FORM278', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_152'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 99.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20220330194208, moz:geckodriverVersion: 0.30.0, moz:headless: false, moz:processID: 9160, moz:profile: C:\Users\FORMAT~1\AppData\L..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: da29d23b-3939-4667-9fb3-cc5937a62e15</message>
+</record>
+</log>

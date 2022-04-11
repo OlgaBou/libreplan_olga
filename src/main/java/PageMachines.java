@@ -63,10 +63,6 @@ public class PageMachines extends PageBandeau {
 	@FindBy(css = "td[id*='chdextr'] td.z-button-cm img[src='/libreplan/common/img/ico_borrar1.png']")
 	public WebElement supprimerButton;
 	
-	@FindBy(xpath = "//div[@class='message_INFO']/span")
-	public WebElement messageBandeau;
-	
-	
 	@FindBy(xpath = "//td[@class='z-button-cm' and text()='OK']")
 	public WebElement okButton;
 	

@@ -29,4 +29,6 @@ public class PageAccueil extends PageBandeau {
 		mouseClick.click();
 		return PageFactory.initElements(driver, PageProfils.class);
 	}
+	
+
 }
