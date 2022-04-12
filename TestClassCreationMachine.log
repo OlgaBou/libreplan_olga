@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T14:26:50</date>
+  <millis>1649766410816</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>
+DEUXIÈME TEST</message>
+</record>
+<record>
+  <date>2022-04-12T14:26:50</date>
+  <millis>1649766410822</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>INITIALISER LA PAGECONNEXION</message>
+</record>
+<record>
+  <date>2022-04-12T14:26:50</date>
+  <millis>1649766410846</millis>
+  <sequence>3</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>SE LOGGER</message>
+</record>
+<record>
+  <date>2022-04-12T14:26:52</date>
+  <millis>1649766412633</millis>
+  <sequence>4</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>OUVRIR LA PAGE MACHINES</message>
+</record>
+<record>
+  <date>2022-04-12T14:26:56</date>
+  <millis>1649766416170</millis>
+  <sequence>5</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>CRÉER UNE MACHINE</message>
+</record>
+<record>
+  <date>2022-04-12T14:26:56</date>
+  <millis>1649766416533</millis>
+  <sequence>6</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>AJOUTER UNE NOUVELLE MACHINE ("MACHINETEST1", "MACHINETEST1", "RESSOURCE NORMALE</message>
+</record>
+<record>
+  <date>2022-04-12T14:26:57</date>
+  <millis>1649766417485</millis>
+  <sequence>7</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>ANNULER L'ACTION</message>
+</record>
+<record>
+  <date>2022-04-12T14:26:58</date>
+  <millis>1649766418515</millis>
+  <sequence>8</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassCreationMachine</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>SUPPRIMER LA MACHINÉE CRÉÉE</message>
+</record>
+</log>

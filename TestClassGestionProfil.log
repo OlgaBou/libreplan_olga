@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-12T11:45:42</date>
+  <millis>1649756742814</millis>
+  <sequence>1</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>
+DEUXIÈME TEST</message>
+</record>
+<record>
+  <date>2022-04-12T11:45:42</date>
+  <millis>1649756742819</millis>
+  <sequence>2</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>INITIALISER LA PAGECONNEXION</message>
+</record>
+<record>
+  <date>2022-04-12T11:45:42</date>
+  <millis>1649756742839</millis>
+  <sequence>3</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>INFO</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>SE LOGGER</message>
+</record>
+<record>
+  <date>2022-04-12T11:45:58</date>
+  <millis>1649756758811</millis>
+  <sequence>4</sequence>
+  <logger>TestClassGestionProfil</logger>
+  <level>SEVERE</level>
+  <class>TestClassGestionProfil</class>
+  <method>test</method>
+  <thread>1</thread>
+  <message>EXCEPTION WHILE TAKING SCREENSHOT Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //tr[@valign='top']//span[text()='Calendrier']' (tried for 15 second(s) with 500 milliseconds interval)</message>
+</record>
+</log>

@@ -60,6 +60,15 @@ public class PageBandeau {
 		return verif;
 	}
 
+	public static String getNameFile() {
+		SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd 'at' HH:mm:ss z");
+		Date date = new Date(System.currentTimeMillis());
+		String dateNow = formatter.format(date);
+		String fileName = dateNow.toString().replace(":", "_").replace(" ", "_") + ".png";
+
+		return fileName;
+	}
+
 	public static void takeSnapShot(WebDriver webdriver, String fileWithPath) throws Exception {
 		// Convert web driver object to TakeScreenshot
 		TakesScreenshot scrShot = ((TakesScreenshot) webdriver);
@@ -74,15 +83,6 @@ public class PageBandeau {
 	public void mouseHover(WebElement mouseHover, WebElement mouseClick) {
 		Actions action = new Actions(driver);
 		action.moveToElement(mouseHover).perform();
-	}
-
-	public static String getNameFile() {
-		SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd 'at' HH:mm:ss z");
-		Date date = new Date(System.currentTimeMillis());
-		String dateNow = formatter.format(date);
-		String fileName = dateNow.toString().replace(":", "_").replace(" ", "_") + ".png";
-
-		return fileName;
 	}
 
 }
